@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "topic": "company_overview",
+    "content": "Infoziant (Infoziant IT Solutions Inc.) is a SOC 2 and ISO 27001:2022 certified technology company. Their core mission is powering progress through code and creativity, transforming ideas into high-performing applications from web to enterprise systems. They have identified over 47,400 vulnerabilities, won 81+ rewards, and serve 51+ clients globally across 11+ business domains."
+  },
+  {
+    "id": 2,
+    "topic": "core_services",
+    "content": "Infoziant offers several core tech services: Cybersecurity (24x7 monitoring and incident response), Web & App Development (zero defect policy), AI & Machine Learning, Testing & Automation (accelerating time to market with zero flaky tests), CodeChef (global hackathons), and Training & Placement for tech skills."
+  },
+  {
+    "id": 3,
+    "topic": "products_and_innovations",
+    "content": "Infoziant has two flagship products. iDast is an in-house vulnerability assessment tool to uncover security flaws and generate audit reports. Eduziant is an AI-powered career enablement platform providing students with personalized learning paths and job opportunities."
+  },
+  {
+    "id": 4,
+    "topic": "llm_and_ai_testing",
+    "content": "Infoziant specializes in LLM Software Testing. They focus on preventing AI hallucinations, optimizing response times, and preventing data leakage. Their testing approach includes checking training data integrity, model verification, performance testing, and security testing using metrics like RAG scores, BLEU, and BERT scores."
+  },
+  {
+    "id": 5,
+    "topic": "contact_information_and_locations",
+    "content": "Infoziant can be contacted via email at support@infoziant.com or phone at +1 (940) 290 7007. Their India headquarters is located in Chennai (Akshaya HQ, Rajiv Gandhi Salai, Kazhipattur, Tamil Nadu 603103). Their United States office is located in Sacramento (1401, 21st ST STE 6310, CA 95811)."
+  },
+  {
+    "id": 6,
+    "topic": "client_testimonials",
+    "content": "Clients highly rate Infoziant's expertise. Krishna from SMI Technology LLC in Dubai praised their visually stunning and functionally robust web development. Mr. Senthil Kumar, CEO of Vasa Infotech, highlighted Infoziant's organized security testing stages and helpful vulnerability remediations."
+  }
+]

@@ -1,15 +1,13 @@
-# ==========================================
 # 1. CHECKING DATA TYPES
-# ==========================================
+
 # Use the type() function to see what kind of data you are working with
 print(type("1234555"))  # <class 'str'> (String)
 print(type(12333))      # <class 'int'> (Integer)
 print(type(3.141592))   # <class 'float'> (Floating point number / Decimal)
 print(type(3 < 2))      # <class 'bool'> (Boolean - True or False)
 
-# ==========================================
 # 2. BASIC MATHEMATICAL OPERATIONS
-# ==========================================
+
 print(1 + 1)  # Addition
 print(4 - 2)  # Subtraction
 print(5 * 5)  # Multiplication
@@ -20,7 +18,7 @@ print(2 ** 4)   # Exponent (2 to the power of 4)
 print(78 // 9)  # Floor division (Divides and drops the decimal, returning an integer)
 print(80000 % 2) # Modulo / Remainder (Returns the remainder of a division. Great for checking even/odd numbers)
 
-# ==========================================
+
 # 3. ORDER OF OPERATIONS (PEMDAS)
 # ==========================================
 # Python follows PEMDAS: Parentheses (), Exponents **, Multiplication * / Division /, Addition + / Subtraction -
